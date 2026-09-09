@@ -11,4 +11,9 @@ rgs-test = {
         name= "dev-rg1"
         location ="centralindia"
     }
+
+     rg4={
+        name= "dev-rg01"
+        location ="centralindia"
+    }
 }
